@@ -33,6 +33,3 @@ Refresh the skill list or restart the client, then invoke `$web-dev-pilot`. The 
 
 Python 3.10+ is required. Scripts use only the Python standard library. Run `python scripts/test_tools.py` for offline checks.
 
-## Scope
-
-This package contains general website development guidance only. It has no sample site identity, user contacts, account credentials, API keys, or customer database. Its examples are generic and must be adapted to the actual project. The assistant's ability to edit, run, browse, and publish depends on the host environment and the user's connected accounts. Uploading this ZIP to a plain chat does not by itself provide those capabilities.
