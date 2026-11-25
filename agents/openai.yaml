@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Dev Pilot"
+  short_description: "从零创建或改造网站，逐步完成开发、验证和发布"
+  default_prompt: "使用 $web-dev-pilot，从零帮我创建网站，或按我的目标修改已有项目，完成验证、预览和发布。"

@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "project_name": null,
+  "project_root": null,
+  "repository": null,
+  "default_branch": null,
+  "baseline_sha": null,
+  "site_url": null,
+  "stack": null,
+  "generated_pages": [],
+  "build_command": null,
+  "test_commands": [],
+  "deployment": {"provider": null, "trigger": null, "backend": null},
+  "data": {"store": null, "write_path": null, "concurrency_strategy": null},
+  "roles": [],
+  "secret_names_only": [],
+  "public_contact_email": null,
+  "error_feedback_email": null,
+  "preview_before_release": true,
+  "release_authorization_for_current_task": null,
+  "rollback_sha": null
+}
